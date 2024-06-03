@@ -42,6 +42,10 @@ section {
     animation: fadeIn 1.5s ease-in-out;
 }
 
+#programming {
+    color: #000; /* Change text color to black */
+}
+
 .parallax {
     background: url('path/to/parallax-image.jpg') no-repeat fixed center;
     background-size: cover;
